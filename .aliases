@@ -1,0 +1,8 @@
+alias py=python3
+alias zshell='vim $HOME/.zshrc'
+alias zalias='vim $HOME/.zsh_aliases'
+alias zvar='vim $HOME/.zsh_variables'
+alias cpgit='cp ~/.gitignore'
+alias json='python -mjson.tool'
+alias path='echo -e ${PATH//:/\\n}'
+alias ven='virtualenv py36 --python=python3'
