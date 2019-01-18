@@ -101,4 +101,7 @@ source $ZSH/oh-my-zsh.sh
 source $HOME/.aliases
 source $HOME/.variables
 
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
+
 
